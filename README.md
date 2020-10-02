@@ -1,4 +1,4 @@
-<h1>Hi There, I am <a  href="https://Average-stu.github.io/">Aman </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I am Aman <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
@@ -33,6 +33,10 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=average-stu&show_icons=true" alt="average-stu" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=average-stu&langs_count=9" alt="average-stu"  /></p>
+
+
+
 <br />
 <br />
 
